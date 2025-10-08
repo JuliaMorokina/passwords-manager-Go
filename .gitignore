@@ -1,3 +1,4 @@
 accountData.json
-.env
+.env*
 *.vault
+app-password
